@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Pureza: mate.
+DRAGON_SOUL_STEP_LEVEL2	Pureza: clara.
+DRAGON_SOUL_STEP_LEVEL3	Pureza: límpida.
+DRAGON_SOUL_STEP_LEVEL4	Pureza: brillante.
+DRAGON_SOUL_STEP_LEVEL5	Pureza: excelente.

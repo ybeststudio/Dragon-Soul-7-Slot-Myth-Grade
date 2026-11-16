@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Auto Refinar
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Mejorar todas las piedras de este tipo:
+DRAGON_SOUL_AUTO_FINISHED	Refinado automático completado.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Hasta claridad máxima:
+DRAGON_SOUL_AUTO_MAX_CLASS	Hasta la clase máxima:
+DRAGON_SOUL_AUTO_MAX_REFINE	Mejorar hasta:
+DRAGON_SOUL_AUTO_NO_BEAN	La judía de dragón seleccionada no está en el inventario.
+DRAGON_SOUL_AUTO_NO_STONE	Coloca la piedra a refinar en el panel de purificación.
+DRAGON_SOUL_AUTO_OPEN_COR	Abrir Cor automáticamente
+DRAGON_SOUL_AUTO_SLOT_DESC	- Coloca la piedra que deseas subir de nivel ^ - Selecciona las judías que deseas usar
+DRAGON_SOUL_AUTO_STOPPED	Refinado automático detenido.
+DRAGON_SOUL_AUTO_TAB_1	Clase
+DRAGON_SOUL_AUTO_TAB_2	Nivel
+DRAGON_SOUL_AUTO_TAB_3	Pureza
+DRAGON_SOUL_AUTO_TITLE_1	Mejorar Clase de todas las Piedras
+DRAGON_SOUL_AUTO_TITLE_2	Mejorar Nivel de una Piedra
+DRAGON_SOUL_AUTO_TITLE_3	Mejorar Claridad de todas las Piedras
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Solo se mejorarán las piedras de la página actual:
+DRAGON_SOUL_START_AUTO	Iniciar Auto Refinado
+DRAGON_SOUL_STOP_AUTO	Detener mejora automática

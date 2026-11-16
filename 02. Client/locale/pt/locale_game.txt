@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Clareza: translúcida.
+DRAGON_SOUL_STEP_LEVEL2	Clareza: límpida.
+DRAGON_SOUL_STEP_LEVEL3	Clareza: impecável.
+DRAGON_SOUL_STEP_LEVEL4	Clareza: brilhante.
+DRAGON_SOUL_STEP_LEVEL5	Clareza: excelente.

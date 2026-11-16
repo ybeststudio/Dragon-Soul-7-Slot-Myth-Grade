@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	วแสไÞํษ วแสแÞวฦํษ
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	ุๆ๘ั ฬใํฺ วแรอฬวั ใไ ๅะว วแไๆฺ:
+DRAGON_SOUL_AUTO_FINISHED	ว฿สใแส วแสไÞํษ วแสแÞวฦํษ.
+DRAGON_SOUL_AUTO_MAX_CLARITY	อส์ รÞี์ ไÞวม:
+DRAGON_SOUL_AUTO_MAX_CLASS	อส์ รÞี์ Ýฦษ:
+DRAGON_SOUL_AUTO_MAX_REFINE	อส์ รÞี์ สุๆํั:
+DRAGON_SOUL_AUTO_NO_BEAN	อศษ วแสไํไ วแใฮสวัษ Ûํั ใๆฬๆฯษ Ýํ วแอÞํศษ.
+DRAGON_SOUL_AUTO_NO_STONE	ึฺ วแอฬั วแใัวฯ สไÞํสๅ Ýํ แๆอษ วแสไÞํษ.
+DRAGON_SOUL_AUTO_OPEN_COR	Ýสอ Cor สแÞวฦํว๐
+DRAGON_SOUL_AUTO_SLOT_DESC	- ึฺ วแอฬั วแะํ สัํฯ ัÝฺ ใำสๆวๅ ^ - วฮสั วแอศษ วแสํ สัํฯ วำสฮฯวใๅว
+DRAGON_SOUL_AUTO_STOPPED	สใ ลํÞวÝ วแสไÞํษ วแสแÞวฦํษ.
+DRAGON_SOUL_AUTO_TAB_1	วแÝฦษ
+DRAGON_SOUL_AUTO_TAB_2	วแใำสๆ์
+DRAGON_SOUL_AUTO_TAB_3	วแไÞวม
+DRAGON_SOUL_AUTO_TITLE_1	สุๆํั ฬใํฺ วแรอฬวั
+DRAGON_SOUL_AUTO_TITLE_2	สุๆํั อฬั ๆวอฯ
+DRAGON_SOUL_AUTO_TITLE_3	ัÝฺ ไÞวม ฬใํฺ วแรอฬวั
+DRAGON_SOUL_AUTO_UPGRADE_DESC	ำํสใ สุๆํั รอฬวั วแีÝอษ วแอวแํษ ÝÞุ:
+DRAGON_SOUL_START_AUTO	ศฯม วแสุๆํั วแสแÞวฦํ
+DRAGON_SOUL_STOP_AUTO	ลํÞวÝ วแสุๆํั วแสแÞวฦํ

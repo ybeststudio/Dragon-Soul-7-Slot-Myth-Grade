@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Otomatik Hassaslaþtýrma
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Bu türdeki tüm taþlarý geliþtir:
+DRAGON_SOUL_AUTO_FINISHED	Otomatik hassaslaþtýrma tamamlandý.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Maksimum Saflýða Kadar:
+DRAGON_SOUL_AUTO_MAX_CLASS	Maksimum sýnýfa kadar:
+DRAGON_SOUL_AUTO_MAX_REFINE	Maksimum Geliþtirme:
+DRAGON_SOUL_AUTO_NO_BEAN	Seçilen ejderha fasulyesi envanterde yok.
+DRAGON_SOUL_AUTO_NO_STONE	Hassaslaþtýrýlacak taþý arýndýrma paneline yerleþtir.
+DRAGON_SOUL_AUTO_OPEN_COR	Cor'u otomatik aç
+DRAGON_SOUL_AUTO_SLOT_DESC	- Seviyesini yükseltmek istediðiniz taþý yerleþtirin ^ - Kullanmak istediðiniz fasulyeyi seçin
+DRAGON_SOUL_AUTO_STOPPED	Otomatik hassaslaþtýrma durduruldu.
+DRAGON_SOUL_AUTO_TAB_1	Sýnýf
+DRAGON_SOUL_AUTO_TAB_2	Seviye
+DRAGON_SOUL_AUTO_TAB_3	Saflýk
+DRAGON_SOUL_AUTO_TITLE_1	Tüm Taþlarý Yükselt
+DRAGON_SOUL_AUTO_TITLE_2	Bir Taþý Yükselt
+DRAGON_SOUL_AUTO_TITLE_3	Tüm Taþlarýn Saflýðýný Yükselt
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Yalnýzca mevcut sayfa taþlarý yükseltilecek:
+DRAGON_SOUL_START_AUTO	Otomatik geliþtirmeyi baþlat
+DRAGON_SOUL_STOP_AUTO	Otomatik geliþtirmeyi durdur

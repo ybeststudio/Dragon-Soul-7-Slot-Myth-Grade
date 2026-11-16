@@ -1,0 +1,21 @@
+// Ara:
+	DS_SLOT4,
+	DS_SLOT5,
+	DS_SLOT6,
+
+// Altina ekle:
+#ifdef ENABLE_DRAGON_SOUL_7_SLOT
+	DS_SLOT7,
+#endif
+
+
+// Ara:
+	DRAGON_SOUL_GRADE_RARE,
+	DRAGON_SOUL_GRADE_ANCIENT,
+	DRAGON_SOUL_GRADE_LEGENDARY,
+
+// Altina ekle:
+#ifdef ENABLE_DS_GRADE_MYTH
+	DRAGON_SOUL_GRADE_MYTH,
+#endif
+

@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Perfezionamento automatico
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Migliora tutte le pietre di questo tipo:
+DRAGON_SOUL_AUTO_FINISHED	Raffinamento automatico completato.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Fino alla massima chiarezza:
+DRAGON_SOUL_AUTO_MAX_CLASS	Fino alla classe massima:
+DRAGON_SOUL_AUTO_MAX_REFINE	Perfezionamento massimo:
+DRAGON_SOUL_AUTO_NO_BEAN	Il Fagiolo del Drago selezionato non è nell'inventario.
+DRAGON_SOUL_AUTO_NO_STONE	Inserisci la pietra da raffinare nel pannello di purificazione.
+DRAGON_SOUL_AUTO_OPEN_COR	Apri automaticamente i Cor
+DRAGON_SOUL_AUTO_SLOT_DESC	- Posiziona la pietra che desideri far salire di livello ^ - Seleziona i fagioli che desideri utilizzare
+DRAGON_SOUL_AUTO_STOPPED	Raffinamento automatico interrotto.
+DRAGON_SOUL_AUTO_TAB_1	Classe
+DRAGON_SOUL_AUTO_TAB_2	Livello
+DRAGON_SOUL_AUTO_TAB_3	Purezza
+DRAGON_SOUL_AUTO_TITLE_1	Migliora la classe di tutte le pietre
+DRAGON_SOUL_AUTO_TITLE_2	Migliora il livello di una pietra
+DRAGON_SOUL_AUTO_TITLE_3	Migliora la chiarezza di tutte le pietre
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Verranno aggiornate solo le pagine attuali:
+DRAGON_SOUL_START_AUTO	Avvia il perfezionamento automatico
+DRAGON_SOUL_STOP_AUTO	Ferma potenziamento automatico

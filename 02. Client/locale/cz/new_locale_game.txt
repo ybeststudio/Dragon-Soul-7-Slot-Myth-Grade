@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Automatické zpøesnìní
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Vylepšit všechny kameny tohoto typu:
+DRAGON_SOUL_AUTO_FINISHED	Automatické vylepšování dokonèeno.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Do maximální jasnosti:
+DRAGON_SOUL_AUTO_MAX_CLASS	A do maximální tøídy:
+DRAGON_SOUL_AUTO_MAX_REFINE	Maximální upøesnìní:
+DRAGON_SOUL_AUTO_NO_BEAN	Vybranı draèí fazol není v inventáøi.
+DRAGON_SOUL_AUTO_NO_STONE	Vlo kámen k vylepšení do èisticího panelu.
+DRAGON_SOUL_AUTO_OPEN_COR	Automaticky otevírat Cor
+DRAGON_SOUL_AUTO_SLOT_DESC	- Umístìte kámen, kterı chcete vyrovnat ^ - Vyberte fazole, které chcete pouít
+DRAGON_SOUL_AUTO_STOPPED	Automatické vylepšování zastaveno.
+DRAGON_SOUL_AUTO_TAB_1	tøídy
+DRAGON_SOUL_AUTO_TAB_2	úroveò
+DRAGON_SOUL_AUTO_TAB_3	Èistota
+DRAGON_SOUL_AUTO_TITLE_1	Vylepšete tøídu všech kamenù
+DRAGON_SOUL_AUTO_TITLE_2	Vylepšete úroveò jednoho kamene
+DRAGON_SOUL_AUTO_TITLE_3	Vylepšete èistotu všech kamenù
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Upgradovány budou pouze kameny aktuální stránky:
+DRAGON_SOUL_START_AUTO	Spuste automatické upøesnìní
+DRAGON_SOUL_STOP_AUTO	Zastavit automatické vylepšování

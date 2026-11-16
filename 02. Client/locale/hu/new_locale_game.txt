@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Automatikus finomítás
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	E típus összes kövének fejlesztése:
+DRAGON_SOUL_AUTO_FINISHED	Az automatikus finomítás befejezõdött.
+DRAGON_SOUL_AUTO_MAX_CLARITY	A maximális tisztaságig:
+DRAGON_SOUL_AUTO_MAX_CLASS	A maximális osztályig:
+DRAGON_SOUL_AUTO_MAX_REFINE	Maximális finomítás:
+DRAGON_SOUL_AUTO_NO_BEAN	A kiválasztott sárkánybab nincs a készletben.
+DRAGON_SOUL_AUTO_NO_STONE	Helyezd a finomítandó követ a tisztító panelre.
+DRAGON_SOUL_AUTO_OPEN_COR	Cor automatikus megnyitása
+DRAGON_SOUL_AUTO_SLOT_DESC	- Helyezze el a követ, amelyet szintet szeretne emelni ^ - Válassza ki a használni kívánt babot
+DRAGON_SOUL_AUTO_STOPPED	Az automatikus finomítás leállt.
+DRAGON_SOUL_AUTO_TAB_1	Osztály
+DRAGON_SOUL_AUTO_TAB_2	Szint
+DRAGON_SOUL_AUTO_TAB_3	Tisztaság
+DRAGON_SOUL_AUTO_TITLE_1	Az összes kõ frissítési osztálya
+DRAGON_SOUL_AUTO_TITLE_2	Egy kõ frissítési szintje
+DRAGON_SOUL_AUTO_TITLE_3	Frissítse az összes Stones tisztaságát
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Csak a jelenlegi oldalkövek frissítésre kerülnek:
+DRAGON_SOUL_START_AUTO	Indítsa el az Automatikus finomítást
+DRAGON_SOUL_STOP_AUTO	Automatikus fejlesztés leállítása

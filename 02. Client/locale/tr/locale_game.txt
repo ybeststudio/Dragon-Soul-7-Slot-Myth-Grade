@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Saflýk: mat,
+DRAGON_SOUL_STEP_LEVEL2	Saflýk: parlak,
+DRAGON_SOUL_STEP_LEVEL3	Saflýk: tertemiz,
+DRAGON_SOUL_STEP_LEVEL4	Saflýk: mükemmel,
+DRAGON_SOUL_STEP_LEVEL5	Saflýk: kusursuz,

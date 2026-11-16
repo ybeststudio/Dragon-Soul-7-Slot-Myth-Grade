@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Claritate: opaca,
+DRAGON_SOUL_STEP_LEVEL2	Claritate: clara,
+DRAGON_SOUL_STEP_LEVEL3	Claritate: perfecta,
+DRAGON_SOUL_STEP_LEVEL4	Claritate: stralucitoare,
+DRAGON_SOUL_STEP_LEVEL5	Claritate: excelenta,

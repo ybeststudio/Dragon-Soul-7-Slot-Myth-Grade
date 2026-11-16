@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Refinar automaticamente
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Melhorar todas as pedras deste tipo:
+DRAGON_SOUL_AUTO_FINISHED	O refino automático foi concluído.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Até a clareza máxima:
+DRAGON_SOUL_AUTO_MAX_CLASS	Até à classe máxima:
+DRAGON_SOUL_AUTO_MAX_REFINE	Refinamento máximo:
+DRAGON_SOUL_AUTO_NO_BEAN	O feijão do dragão selecionado não está no inventário.
+DRAGON_SOUL_AUTO_NO_STONE	Coloque a pedra a ser refinada no painel de purificação.
+DRAGON_SOUL_AUTO_OPEN_COR	Abrir Cor automaticamente
+DRAGON_SOUL_AUTO_SLOT_DESC	- Coloque a pedra que deseja subir de nível ^ - Selecione os feijões que deseja usar
+DRAGON_SOUL_AUTO_STOPPED	O refino automático foi interrompido.
+DRAGON_SOUL_AUTO_TAB_1	Classe
+DRAGON_SOUL_AUTO_TAB_2	Nível
+DRAGON_SOUL_AUTO_TAB_3	Grau de Clareza
+DRAGON_SOUL_AUTO_TITLE_1	Melhorar a classe de todas as pedras
+DRAGON_SOUL_AUTO_TITLE_2	Nível de melhoramento de uma pedra
+DRAGON_SOUL_AUTO_TITLE_3	Melhora a clareza de todas as pedras
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Apenas as pedras da página atuais serão melhoradas:
+DRAGON_SOUL_START_AUTO	Iniciar refino automático
+DRAGON_SOUL_STOP_AUTO	Parar melhoria automática

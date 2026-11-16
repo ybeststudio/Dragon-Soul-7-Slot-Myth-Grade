@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Auto Verfeinern
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Alle Steine dieses Typs verbessern:
+DRAGON_SOUL_AUTO_FINISHED	Die automatische Verfeinerung ist abgeschlossen.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Bis max. Reinheit:
+DRAGON_SOUL_AUTO_MAX_CLASS	Bis zur max. Klasse:
+DRAGON_SOUL_AUTO_MAX_REFINE	Max. Verfeinerung:
+DRAGON_SOUL_AUTO_NO_BEAN	Die gewählte Drachenbohne ist nicht im Inventar.
+DRAGON_SOUL_AUTO_NO_STONE	Lege den zu verfeinernden Stein in das Läuterungsfenster.
+DRAGON_SOUL_AUTO_OPEN_COR	Cor automatisch öffnen
+DRAGON_SOUL_AUTO_SLOT_DESC	- Lege den Stein, den du leveln willst ^ - Wähle die Bohnen, die du nutzen willst
+DRAGON_SOUL_AUTO_STOPPED	Die automatische Verfeinerung wurde gestoppt.
+DRAGON_SOUL_AUTO_TAB_1	Klasse
+DRAGON_SOUL_AUTO_TAB_2	Level
+DRAGON_SOUL_AUTO_TAB_3	Reinheit
+DRAGON_SOUL_AUTO_TITLE_1	Klasse aller Steine verbessern
+DRAGON_SOUL_AUTO_TITLE_2	Level eines Steins verbessern
+DRAGON_SOUL_AUTO_TITLE_3	Reinheit aller Steine verbessern
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Nur Steine der aktuellen Seite werden verbessert:
+DRAGON_SOUL_START_AUTO	Auto-Verfeinerung starten
+DRAGON_SOUL_STOP_AUTO	Automatische Verbesserung stoppen

@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Rafinare automatã
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Îmbunãtãteste toate pietrele de acest tip:
+DRAGON_SOUL_AUTO_FINISHED	Rafinarea automatã s-a încheiat.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Pânã la claritate maximã:
+DRAGON_SOUL_AUTO_MAX_CLASS	Pânã la clasa maximã:
+DRAGON_SOUL_AUTO_MAX_REFINE	Rafinare maximã:
+DRAGON_SOUL_AUTO_NO_BEAN	Boabele de dragon selectate nu se aflã în inventar.
+DRAGON_SOUL_AUTO_NO_STONE	Pune piatra de rafinat în panoul de purificare.
+DRAGON_SOUL_AUTO_OPEN_COR	Deschide automat Cor
+DRAGON_SOUL_AUTO_SLOT_DESC	- Aºezaþi piatra pe care doriþi sã o ridicaþi la nivel ^ - Selectaþi fasolea pe care doriþi sã o folosiþi
+DRAGON_SOUL_AUTO_STOPPED	Rafinarea automatã a fost opritã.
+DRAGON_SOUL_AUTO_TAB_1	Clasã
+DRAGON_SOUL_AUTO_TAB_2	Nivel
+DRAGON_SOUL_AUTO_TAB_3	Puritate
+DRAGON_SOUL_AUTO_TITLE_1	Upgrade Class of All Stones
+DRAGON_SOUL_AUTO_TITLE_2	Upgrade la nivel de o piatrã
+DRAGON_SOUL_AUTO_TITLE_3	Actualizaþi Claritatea tuturor pietrelor
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Numai pietrele de paginã actuale vor fi actualizate:
+DRAGON_SOUL_START_AUTO	Porniþi rafinarea automatã
+DRAGON_SOUL_STOP_AUTO	Opreºte îmbunãtãþirea automatã

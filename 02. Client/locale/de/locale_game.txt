@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Reinheit: matt,
+DRAGON_SOUL_STEP_LEVEL2	Reinheit: klar,
+DRAGON_SOUL_STEP_LEVEL3	Reinheit: lupenrein,
+DRAGON_SOUL_STEP_LEVEL4	Reinheit: brillant,
+DRAGON_SOUL_STEP_LEVEL5	Reinheit: exzellent,

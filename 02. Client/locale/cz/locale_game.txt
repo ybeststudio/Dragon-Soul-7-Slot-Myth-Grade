@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Èirost: matná,
+DRAGON_SOUL_STEP_LEVEL2	Èirost: èistá,
+DRAGON_SOUL_STEP_LEVEL3	Èirost: bezchybná,
+DRAGON_SOUL_STEP_LEVEL4	Èirost: brilantní,
+DRAGON_SOUL_STEP_LEVEL5	Èirost: excelentní,

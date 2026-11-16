@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Amélioration auto
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Améliorer toutes les pierres de ce type :
+DRAGON_SOUL_AUTO_FINISHED	Raffinage automatique terminé.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Jusqu'à pureté max :
+DRAGON_SOUL_AUTO_MAX_CLASS	Jusqu'à la classe max :
+DRAGON_SOUL_AUTO_MAX_REFINE	Raffinement max :
+DRAGON_SOUL_AUTO_NO_BEAN	La fève de dragon sélectionnée n'est pas dans l'inventaire.
+DRAGON_SOUL_AUTO_NO_STONE	Placez la pierre à raffiner dans le panneau d'amélioration.
+DRAGON_SOUL_AUTO_OPEN_COR	Ouvrir les Cor automatiquement
+DRAGON_SOUL_AUTO_SLOT_DESC	- Placez la pierre à améliorer ^ - Sélectionnez les fèves à utiliser
+DRAGON_SOUL_AUTO_STOPPED	Raffinage automatique arrêté.
+DRAGON_SOUL_AUTO_TAB_1	Classe
+DRAGON_SOUL_AUTO_TAB_2	Niveau
+DRAGON_SOUL_AUTO_TAB_3	Pureté
+DRAGON_SOUL_AUTO_TITLE_1	Monter la Classe de toutes les pierres
+DRAGON_SOUL_AUTO_TITLE_2	Monter le Niveau d'une pierre
+DRAGON_SOUL_AUTO_TITLE_3	Monter la Pureté de toutes les pierres
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Seules les pierres de la page actuelle seront améliorées :
+DRAGON_SOUL_START_AUTO	Démarrer l'amélioration auto
+DRAGON_SOUL_STOP_AUTO	Arrêter l'amélioration auto

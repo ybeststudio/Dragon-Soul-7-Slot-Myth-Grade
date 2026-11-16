@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Tisztaság: matt,
+DRAGON_SOUL_STEP_LEVEL2	Tisztaság: tiszta,
+DRAGON_SOUL_STEP_LEVEL3	Tisztaság: hibátlan,
+DRAGON_SOUL_STEP_LEVEL4	Tisztaság: ragyogó,
+DRAGON_SOUL_STEP_LEVEL5	Tisztaság: kiváló,

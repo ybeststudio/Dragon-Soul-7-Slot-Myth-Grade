@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Purezza: opaco,
+DRAGON_SOUL_STEP_LEVEL2	Purezza: chiaro,
+DRAGON_SOUL_STEP_LEVEL3	Purezza: limpido,
+DRAGON_SOUL_STEP_LEVEL4	Purezza: brillante,
+DRAGON_SOUL_STEP_LEVEL5	Purezza: eccellente,

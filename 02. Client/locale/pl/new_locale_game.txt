@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Automatyczne udoskonalanie
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Ulepsz wszystkie kamienie tego typu:
+DRAGON_SOUL_AUTO_FINISHED	Automatyczne udoskonalanie zakoñczone.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Do maksymalnej przejrzystoœci:
+DRAGON_SOUL_AUTO_MAX_CLASS	Do maksymalnej klasy:
+DRAGON_SOUL_AUTO_MAX_REFINE	Maksymalne udoskonalenie:
+DRAGON_SOUL_AUTO_NO_BEAN	Wybranej fasoli smoka nie ma w ekwipunku.
+DRAGON_SOUL_AUTO_NO_STONE	Umieœæ kamieñ do udoskonalenia w panelu ulepszania.
+DRAGON_SOUL_AUTO_OPEN_COR	Automatycznie otwieraj Cor
+DRAGON_SOUL_AUTO_SLOT_DESC	- Umieœæ kamieñ, który chcesz wyrównaæ ^ - Wybierz fasolê, której chcesz u¿yæ
+DRAGON_SOUL_AUTO_STOPPED	Automatyczne udoskonalanie zatrzymane.
+DRAGON_SOUL_AUTO_TAB_1	Klasa
+DRAGON_SOUL_AUTO_TAB_2	Poziom
+DRAGON_SOUL_AUTO_TAB_3	Czystoœæ
+DRAGON_SOUL_AUTO_TITLE_1	Ulepsz klasê wszystkich kamieni
+DRAGON_SOUL_AUTO_TITLE_2	Ulepsz poziom o jeden kamieñ
+DRAGON_SOUL_AUTO_TITLE_3	Ulepsz przejrzystoœæ wszystkich kamieni
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Uaktualnione zostan¹ tylko bie¿¹ce kamienie stron:
+DRAGON_SOUL_START_AUTO	Rozpocznij automatyczne udoskonalanie
+DRAGON_SOUL_STOP_AUTO	Zatrzymaj automatyczne ulepszanie

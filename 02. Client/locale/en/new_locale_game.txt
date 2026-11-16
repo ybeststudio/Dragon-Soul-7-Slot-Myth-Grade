@@ -1,0 +1,20 @@
+DRAGONSOUL_AUTO_REFINE_TITLE	Auto Refine
+DRAGON_SOUL_AUTO_CLASS_UPGRADE_DESC	Upgrade all stones of this type:
+DRAGON_SOUL_AUTO_FINISHED	Auto refinement completed.
+DRAGON_SOUL_AUTO_MAX_CLARITY	Until max clarity:
+DRAGON_SOUL_AUTO_MAX_CLASS	Until max class:
+DRAGON_SOUL_AUTO_MAX_REFINE	Max refine:
+DRAGON_SOUL_AUTO_NO_BEAN	The selected dragon bean is not in your inventory.
+DRAGON_SOUL_AUTO_NO_STONE	Place the stone to refine in the purification panel.
+DRAGON_SOUL_AUTO_OPEN_COR	Auto-open Cor
+DRAGON_SOUL_AUTO_SLOT_DESC	- Place the stone you want to level up ^ - Select the beans you want to use
+DRAGON_SOUL_AUTO_STOPPED	Auto refinement stopped.
+DRAGON_SOUL_AUTO_TAB_1	Class
+DRAGON_SOUL_AUTO_TAB_2	Level
+DRAGON_SOUL_AUTO_TAB_3	Purity
+DRAGON_SOUL_AUTO_TITLE_1	Upgrade Class of all Stones
+DRAGON_SOUL_AUTO_TITLE_2	Upgrade Level of one Stone
+DRAGON_SOUL_AUTO_TITLE_3	Upgrade Clarity of all Stones
+DRAGON_SOUL_AUTO_UPGRADE_DESC	Only current page stones will be upgraded:
+DRAGON_SOUL_START_AUTO	Start Auto Refine
+DRAGON_SOUL_STOP_AUTO	Stop auto upgrade

@@ -1,0 +1,5 @@
+DRAGON_SOUL_STEP_LEVEL1	Jakoœæ: matowy,
+DRAGON_SOUL_STEP_LEVEL2	Jakoœæ: przejrzysty,
+DRAGON_SOUL_STEP_LEVEL3	Jakoœæ: bez skazy,
+DRAGON_SOUL_STEP_LEVEL4	Jakoœæ: znakomity,
+DRAGON_SOUL_STEP_LEVEL5	Jakoœæ: wyborny,
